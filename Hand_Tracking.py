@@ -8,6 +8,7 @@ handDetection = mp.solutions.hands
 hands = handDetection.Hands()
 handDrawn = mp.solutions.drawing_utils
 
+
 previousT = 0
 CurrentT = 0
 
